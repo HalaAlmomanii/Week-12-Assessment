@@ -5,7 +5,7 @@ The blog has easy and delicious recipes for people looking for nutritious meals 
  
 perfect for those interested in a  Healthy lifestyle or just eating more healthfully will find a wealth of inspiration in it.
 
-### GETTING STARTED
+## GETTING STARTED
 
 ### setup
 Step 1
