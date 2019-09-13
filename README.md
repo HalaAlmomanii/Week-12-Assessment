@@ -5,11 +5,11 @@ The blog has easy and delicious recipes for people looking for nutritious meals 
  
 perfect for those interested in a  Healthy lifestyle or just eating more healthfully will find a wealth of inspiration in it.
 
-<!-- GETTING STARTED -->
 ### GETTING STARTED
+
 ### setup
 Step 1
- Fork this repo!
+Fork this repo!
 Step 2
 ### Clone
 Clone this repo to your local machine using
@@ -17,6 +17,7 @@ Clone this repo to your local machine using
 git clone https:://github.com/your_username_/Project-Name.git
 
 ```
+<br></br>
 ### Installing
 install node moudles
 On React file
@@ -32,7 +33,7 @@ npm install
 
 ## Built With
 
-*[React](https://getReact.com) - The web framework used
+* [React](https://getReact.com) - The web framework used
 * [Bootstrap](https://getbootstrap.com)
 * [React](https://getReact.com)
 * [Html](https://getHtml.com)
