@@ -41,7 +41,7 @@ npm install
 
 ## Authors
 **Hala Almomani.**<br>
-**Mohammed Tamimi**
-**Roaa Alrajbi**
-**Hala Alnajdawi**
+**Mohammed Tamimi**<br>
+**Roaa Alrajbi**<br>
+**Hala Alnajdawi** <br>
 
