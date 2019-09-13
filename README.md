@@ -8,16 +8,14 @@ perfect for those interested in a  Healthy lifestyle or just eating more healthf
 ## GETTING STARTED
 
 ### setup
-Step 1
 Fork this repo!
-Step 2
+
 ### Clone
 Clone this repo to your local machine using
 ```sh
 git clone https:://github.com/your_username_/Project-Name.git
 
 ```
-<br></br>
 ### Installing
 install node moudles
 On React file
@@ -30,7 +28,6 @@ On Server file
 ```sh
 npm install
 ```
-
 ## Built With
 
 * [React](https://getReact.com) - The web framework used
